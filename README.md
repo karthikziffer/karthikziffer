@@ -33,7 +33,6 @@ Future Focus:
 ![LangGraph](https://img.shields.io/badge/LangGraph-FF6F00?style=for-the-badge&logo=langchain&logoColor=white)
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
 ![Hugging Face](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
-![LlamaIndex](https://img.shields.io/badge/LlamaIndex-000000?style=for-the-badge&logo=llamaindex&logoColor=white)
 ![Vector Databases](https://img.shields.io/badge/Vector%20Databases-005571?style=for-the-badge)
 ![RAG Systems](https://img.shields.io/badge/RAG%20Systems-4B0082?style=for-the-badge)
 
