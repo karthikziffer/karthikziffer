@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am an AI Engineer currently working on agentic ai workflows and knowledge bases to solve repetiv rpoblems and scalability for concurrent users and load intensive agents. <br>
+I am an AI Engineer currently working on agentic ai workflows and knowledge bases for a B2B SaaS application serving 150+ enterprises, with scalability for concurrent users and load-intensive agents. <br>
 
 
 
