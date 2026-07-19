@@ -24,6 +24,13 @@ Future Focus:
 - Optimize LLM serving through layered intelligence and knowledge systems.
 - Create cost-efficient, scalable AI infrastructure for enterprise applications.
 
+---
+
+## 🌐 Connect With Me
+
+🔗 LinkedIn: [linkedin.com/in/karthikrks](https://www.linkedin.com/in/karthikrks)  
+✍️ Blog: [karthikziffer.github.io](https://karthikziffer.github.io/)  
+📧 Email: karthik.bengaluru95@gmail.com
 
 --- 
 
