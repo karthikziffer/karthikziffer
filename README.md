@@ -45,10 +45,11 @@ Future Focus:
 ![MLflow](https://img.shields.io/badge/mlflow-%23d9ead3.svg?style=for-the-badge&logo=numpy&logoColor=blue)
 
 ### 🚀 LLM Infrastructure & Model Serving
-![vLLM](https://img.shields.io/badge/vLLM-000000?style=for-the-badge&logo=python&logoColor=white)
+![vLLM](https://img.shields.io/badge/vLLM-000000?style=for-the-badge&logo=vllm&logoColor=white)
 ![TensorRT](https://img.shields.io/badge/TensorRT-76B900?style=for-the-badge&logo=nvidia&logoColor=white)
-![CUDA](https://img.shields.io/badge/CUDA-000000.svg?style=for-the-badge&logo=nVIDIA&logoColor=green)
+![TensorRT-LLM](https://img.shields.io/badge/TensorRT--LLM-76B900?style=for-the-badge&logo=nvidia&logoColor=white)
 ![NVIDIA GPU](https://img.shields.io/badge/NVIDIA%20GPU-76B900?style=for-the-badge&logo=nvidia&logoColor=white)
+![CUDA](https://img.shields.io/badge/CUDA-000000.svg?style=for-the-badge&logo=nVIDIA&logoColor=green)
 ![ONNX Runtime](https://img.shields.io/badge/ONNX%20Runtime-005CED?style=for-the-badge&logo=onnx&logoColor=white)
 
 ### 🧠 Data Engineering
