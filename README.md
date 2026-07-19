@@ -10,7 +10,7 @@ Current Role:
 - Developing production-ready backend infrastructure for AI applications.
 
 
-Core Competencies
+Core Competencies:
 
 - Breaking complex problems into AI and infrastructure challenges.
 - Strong foundation in Machine Learning, NLP, Computer Vision, and Agentic AI.
@@ -18,7 +18,7 @@ Core Competencies
 - Designing scalable, production-grade AI systems.
 
 
-Future Focus
+Future Focus:
 
 - Build production-scale agentic AI platforms.
 - Optimize LLM serving through layered intelligence and knowledge systems.
