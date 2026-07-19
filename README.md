@@ -1,6 +1,17 @@
 # 💫 About Me:
 I am an AI Engineer currently working on agentic ai workflows and knowledge bases for a B2B SaaS application serving 150+ enterprises, with scalability for concurrent users and load-intensive agents. <br>
 
+## 🌐 Connect
+
+<a href="https://www.linkedin.com/in/karthikrks">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+<a href="https://karthikziffer.github.io/">
+  <img src="https://img.shields.io/badge/Blog-FF5722?style=for-the-badge&logo=hashnode&logoColor=white"/>
+</a>
+<a href="mailto:karthik.bengaluru95@gmail.com">
+  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
 
 
 Current Role:
@@ -24,13 +35,6 @@ Future Focus:
 - Optimize LLM serving through layered intelligence and knowledge systems.
 - Create cost-efficient, scalable AI infrastructure for enterprise applications.
 
----
-
-## 🌐 Connect With Me
-
-🔗 LinkedIn: [linkedin.com/in/karthikrks](https://www.linkedin.com/in/karthikrks)  
-✍️ Blog: [karthikziffer.github.io](https://karthikziffer.github.io/)  
-📧 Email: karthik.bengaluru95@gmail.com
 
 --- 
 
