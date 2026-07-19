@@ -25,7 +25,8 @@ Future Focus:
 
 
 
-## 🌐 Connect
+
+# 🌐 Connect
 
 <a href="https://www.linkedin.com/in/karthikrks">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" height="35"/>
