@@ -24,7 +24,6 @@ Future Focus:
 - Create cost-efficient, scalable AI infrastructure for enterprise applications.
 
 
----
 
 ## 🌐 Connect
 
