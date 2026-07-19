@@ -25,6 +25,9 @@ Future Focus:
 - Create cost-efficient, scalable AI infrastructure for enterprise applications.
 
 
+--- 
+
+
 # 💻 Tech Stack
 
 ### 🧠 AI & Agentic Systems
@@ -51,6 +54,8 @@ AWS • Azure • Docker • Kubernetes • Nginx • GitHub Actions
 ### 🌐 Frontend & Tools
 React • Next.js • React Native • Git • Postman • Figma
 
+
+---
 
 
 # 📊 GitHub Stats:
