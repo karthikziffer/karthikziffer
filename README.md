@@ -65,9 +65,10 @@ Frontend & Tools: React • Next.js • React Native • Git • Postman • Fig
 ---
 
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=karthikziffer&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=karthikziffer&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=karthikziffer&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+# 📊 GitHub Stats
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<p align="center">
+  <img src="https://github-readme-stats.shion.dev/api?username=karthikziffer&theme=dark&hide_border=false&include_all_commits=false&count_private=false" height="180"/>
+  <img src="https://streak-stats.demolab.com/?user=karthikziffer&theme=dark&hide_border=false" height="180"/>
+  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=karthikziffer&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" height="180"/>
+</p>
