@@ -2,6 +2,30 @@
 I am an AI Engineer currently working on agentic ai workflows and knowledge bases to solve repetiv rpoblems and scalability for concurrent users and load intensive agents. <br>
 
 
+
+Current Role:
+
+- Building agentic AI workflows and RAG-based knowledge systems.
+- Designing stateless, scalable infrastructure for concurrent LLM workloads.
+- Developing production-ready backend infrastructure for AI applications.
+
+
+Core Competencies
+
+- Breaking complex problems into AI and infrastructure challenges.
+- Strong foundation in Machine Learning, NLP, Computer Vision, and Agentic AI.
+- Building AI solutions that align with measurable business KPIs.
+- Designing scalable, production-grade AI systems.
+
+
+Future Focus
+
+- Build production-scale agentic AI platforms.
+- Optimize LLM serving through layered intelligence and knowledge systems.
+- Create cost-efficient, scalable AI infrastructure for enterprise applications.
+
+
+
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/karthikrks) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:karthik.bengaluru95@gmail.com) 
 
