@@ -30,29 +30,21 @@ Future Focus:
 
 # 💻 Tech Stack
 
-### 🧠 AI & Agentic Systems
-LangChain • LangGraph • OpenAI • Hugging Face • RAG • Vector Databases • Knowledge Bases
+AI & Agentic Systems: LangChain • LangGraph • OpenAI • Hugging Face • RAG • Vector Databases • Knowledge Bases
 
-### 🚀 LLM Infrastructure
-vLLM • TensorRT • TensorRT-LLM • CUDA • NVIDIA GPU • ONNX Runtime • Model Serving
+LLM Infrastructure: vLLM • TensorRT • TensorRT-LLM • CUDA • NVIDIA GPU • ONNX Runtime • Model Serving
 
-### 🤖 ML & Data
-PyTorch • TensorFlow • Scikit-learn • OpenCV • MLflow • NumPy • Pandas
+ML & Data: PyTorch • TensorFlow • Scikit-learn • OpenCV • MLflow • NumPy • Pandas
 
-### ⚙️ Backend & Systems
-Python • TypeScript • C • FastAPI • Django • Node.js • GraphQL • REST APIs
+Backend & Systems: Python • TypeScript • C • FastAPI • Django • Node.js • GraphQL • REST APIs
 
-### 🌊 Data Engineering
-Kafka • Spark • Flink • Airflow • RabbitMQ
+Data Engineering: Kafka • Spark • Flink • Airflow • RabbitMQ
 
-### 🗄️ Databases
-PostgreSQL • MongoDB • Redis • Elasticsearch • Neo4j • DynamoDB
+Databases: PostgreSQL • MongoDB • Redis • Elasticsearch • Neo4j • DynamoDB
 
-### ☁️ Cloud & DevOps
-AWS • Azure • Docker • Kubernetes • Nginx • GitHub Actions
+Cloud & DevOps: AWS • Azure • Docker • Kubernetes • Nginx • GitHub Actions
 
-### 🌐 Frontend & Tools
-React • Next.js • React Native • Git • Postman • Figma
+Frontend & Tools: React • Next.js • React Native • Git • Postman • Figma
 
 
 ---
