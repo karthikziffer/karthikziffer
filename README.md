@@ -20,7 +20,7 @@ I am an AI Engineer currently working on agentic ai workflows and knowledge base
 Current Role:
 
 - Building agentic AI workflows and RAG-based knowledge systems.
-- Developing MLOps pipeline for object detection model
+- Developing MLOps pipeline for object detection model.
 
 
 Core Competencies:
