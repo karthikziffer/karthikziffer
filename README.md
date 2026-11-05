@@ -20,8 +20,7 @@ I am an AI Engineer currently working on agentic ai workflows and knowledge base
 Current Role:
 
 - Building agentic AI workflows and RAG-based knowledge systems.
-- Designing stateless, scalable infrastructure for concurrent LLM workloads.
-- Developing production-ready backend infrastructure for AI applications.
+- Developing MLOps pipeline for object detection model
 
 
 Core Competencies:
@@ -30,13 +29,6 @@ Core Competencies:
 - Strong foundation in Machine Learning, NLP, Computer Vision, and Agentic AI.
 - Building AI solutions that align with measurable business KPIs.
 - Designing scalable, production-grade AI systems.
-
-
-Future Focus:
-
-- Build production-scale agentic AI platforms.
-- Optimize LLM serving through layered intelligence and knowledge systems.
-- Create cost-efficient, scalable AI infrastructure for enterprise applications.
 
 
 
